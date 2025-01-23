@@ -10,9 +10,9 @@ st.set_page_config(page_title="Proposta - Dados", layout="wide")
 col1, col2 = st.columns([1, 1])
 
 # Coluna 1: Títulos com caixas expansíveis
-
-st.title("Gostaria de lhes apresentar o valor dos seus DADOS.")
 with col1:
+    st.title("Gostaria de lhes apresentar o valor dos seus DADOS.")
+
     st.markdown("### **Como nós enxergamos os Dados?**")
     st.write(
         "No contexto da análise de dados para pequenos negócios, é essencial compreender como os elementos da cadeia de Dados, Metadados, Informação, Conhecimento e Sabedoria interagem e se complementam. Essa cadeia forma a base para decisões mais estratégicas e eficazes."
