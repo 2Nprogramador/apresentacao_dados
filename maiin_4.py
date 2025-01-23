@@ -11,7 +11,7 @@ col1, col2 = st.columns([1, 1])
 
 # Coluna 1: Títulos com caixas expansíveis
 with col1:
-    st.title("Gostaria de lhes apresentar"\n "o valor dos seus DADOS.")
+    st.title("Gostaria de lhes apresentar o valor dos seus DADOS.")
 
     st.markdown("### **Como nós enxergamos os Dados?**")
     st.write(
