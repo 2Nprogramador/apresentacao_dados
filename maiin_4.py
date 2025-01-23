@@ -15,7 +15,7 @@ with col1:
 
     st.markdown("### **Como nós enxergamos os Dados?**")
     st.write(
-        "No contexto da análise de dados para pequenos negócios, é essencial compreender como os elementos da cadeia de dados, metadados, informação, conhecimento e sabedoria interagem e se complementam. Essa cadeia forma a base para decisões mais estratégicas e eficazes."
+        "No contexto da análise de dados para pequenos negócios, é essencial compreender como os elementos da cadeia de Dados, Metadados, Informação, Conhecimento e Sabedoria interagem e se complementam. Essa cadeia forma a base para decisões mais estratégicas e eficazes."
     )
     with st.expander("Clique aqui para mais informações sobre 'Como nós enxergamos os Dados?'"):
         st.image("1(2).png")  # Preencha manualmente.
